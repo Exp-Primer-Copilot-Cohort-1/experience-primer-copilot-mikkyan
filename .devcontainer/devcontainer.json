@@ -1,0 +1,11 @@
+{
+    //name this configuration
+    "name": "Codespaces for Slills!",
+    "costomications":{
+        "vscode":{
+            "extentions":[
+                "github.copilot"
+            ]
+        }
+    }
+}
